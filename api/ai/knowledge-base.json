@@ -1,0 +1,11 @@
+{
+  "greetings": ["salom", "assalomu alaykum", "hello", "hi"],
+  "topics": [
+    {"subject":"matematika","keywords":["foiz","pifagor","tenglama","algebra"],"answer":"Foiz yuzdan bir qismdir. Pifagor teoremasi to‘g‘ri burchakli uchburchakda a²+b²=c² ekanini bildiradi."},
+    {"subject":"fizika","keywords":["nyuton","tezlik","kuch","massa"],"answer":"Nyutonning ikkinchi qonuni F=m·a. Tezlik yo‘lning vaqtga nisbatidir."},
+    {"subject":"kimyo","keywords":["atom","molekula","element","reaksiya"],"answer":"Atom elementning kimyoviy xossalarini saqlovchi zarracha; molekula esa bog‘langan atomlar tizimidir."},
+    {"subject":"biologiya","keywords":["hujayra","fotosintez","organizm"],"answer":"Hujayra tirik organizmlarning asosiy tuzilish va funksional birligidir. Fotosintez yorug‘lik energiyasidan foydalanib organik modda hosil bo‘lish jarayonidir."},
+    {"subject":"informatika","keywords":["algoritm","javascript","python","dasturlash"],"answer":"Algoritm — masalani yechish uchun tartiblangan qadamlar ketma-ketligi. Dasturlash esa shu mantiqni dasturlash tilida ifodalashdir."},
+    {"subject":"ingliz tili","keywords":["present simple","past simple","grammar"],"answer":"Present Simple odatiy yoki umumiy holatlar uchun ishlatiladi. Masalan: I study every day."}
+  ]
+}
